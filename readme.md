@@ -1,8 +1,8 @@
-##nimenime
+## nimenime
 
 anime's web using server side and client side with expressjs and reactjs.
 
-##Term of use
+## Term of use
 
 - jalankan `npm install` dan `client-install` untuk install packages.
 - ganti file `.env.example` menjadi `.env`
