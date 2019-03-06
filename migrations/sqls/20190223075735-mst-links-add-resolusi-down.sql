@@ -1,0 +1,1 @@
+ALTER TABLE ls_links DROP resolusi;

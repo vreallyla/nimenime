@@ -1,0 +1,1 @@
+ALTER TABLE ls_links ADD resolusi  enum('360p','480p','720p') NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE ls_streamings ADD resolusi  enum('360p','480p','720p') NOT NULL;
